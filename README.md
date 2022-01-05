@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ElvisGT
-- <h2>🌱 I’m developer Python</h2>
+- <h2>🌱 I’m developer</h2>
 - 📫 How to reach me elvisgiltorres@gmail.com
 
 <!---
