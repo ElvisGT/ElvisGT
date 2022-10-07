@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-next-typescript.vercel.app/](https://portfolio-next-typescript.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **elvisgiltorres@gmail.com**
 
