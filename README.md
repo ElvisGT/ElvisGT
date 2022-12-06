@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvisgt" alt="elvisgt" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-next-typescript.vercel.app/](https://portfolio-next-typescript.vercel.app/)
-
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javascript | node.js | express.js**
 
 - 📫 How to reach me **elvisgiltorres@gmail.com**
 
