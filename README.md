@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, Node.js, Typescript, Express.js**
 
-- 📫 How to reach me **elvisgiltorres@gmail.com**
+- 📫 How to reach me **elvisgt1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
